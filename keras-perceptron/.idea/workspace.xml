@@ -12,14 +12,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example2_1CatsVsDogs_original.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example2_1CatsVsDogs_original.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example2_1CatsVsDogs_original.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
+            <state relative-caret-position="337">
+              <caret line="59" column="54" lean-forward="true" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
               <folding>
                 <element signature="e#201#257#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivationsLosses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ActivationsLosses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-45">
+              <caret line="6" column="91" lean-forward="false" selection-start-line="6" selection-start-column="91" selection-end-line="6" selection-end-column="91" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,11 +72,11 @@
         <option value="$PROJECT_DIR$/datatest.py" />
         <option value="$PROJECT_DIR$/data/ActivationsLosses2017627_12-8.txt" />
         <option value="$PROJECT_DIR$/data/ActivationsLosses2017627_12-24.txt" />
-        <option value="$PROJECT_DIR$/ActivationsLosses.py" />
         <option value="$PROJECT_DIR$/data/ActivationsLosses.txt" />
         <option value="$PROJECT_DIR$/example2_PredictOneSample_original.py" />
         <option value="$PROJECT_DIR$/example2_Predict.py" />
         <option value="$PROJECT_DIR$/example2_1CatsVsDogs_original.py" />
+        <option value="$PROJECT_DIR$/ActivationsLosses.py" />
       </list>
     </option>
   </component>
@@ -124,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.25954947" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Faces" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,7 +233,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="keras-perceptron" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datatest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unfin_datatest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,8 +354,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="743" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2346041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2346041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36899224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -416,7 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
@@ -437,7 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
@@ -479,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1185">
           <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
@@ -493,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
@@ -542,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
@@ -570,7 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="82" column="43" lean-forward="false" selection-start-line="82" selection-start-column="43" selection-end-line="82" selection-end-column="43" />
@@ -584,7 +595,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
@@ -605,7 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
           <caret line="125" column="44" lean-forward="false" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
@@ -655,7 +666,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example1_1.py">
+    <entry file="file://$PROJECT_DIR$/unfin_example1_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
@@ -666,7 +677,7 @@
     <entry file="file://$PROJECT_DIR$/data/ActivationsLosses2017627_12-26.txt" />
     <entry file="file://$PROJECT_DIR$/data/ActivationsLosses2017627_12-24.txt" />
     <entry file="file://$PROJECT_DIR$/data/ActivationsLosses2017627_12-8.txt" />
-    <entry file="file://$PROJECT_DIR$/datatest.py">
+    <entry file="file://$PROJECT_DIR$/unfin_datatest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="98" />
@@ -674,13 +685,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/ActivationsLosses.txt" />
-    <entry file="file://$PROJECT_DIR$/ActivationsLosses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -692,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#188#198#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,17 +710,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="115" column="23" lean-forward="false" selection-start-line="115" selection-start-column="23" selection-end-line="115" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example2_1CatsVsDogs_original.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="80" lean-forward="false" selection-start-line="89" selection-start-column="80" selection-end-line="89" selection-end-column="80" />
+        <state relative-caret-position="337">
+          <caret line="59" column="54" lean-forward="true" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
           <folding>
             <element signature="e#201#257#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActivationsLosses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="6" column="91" lean-forward="false" selection-start-line="6" selection-start-column="91" selection-end-line="6" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
