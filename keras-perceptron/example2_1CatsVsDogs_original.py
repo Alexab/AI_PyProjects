@@ -1,17 +1,25 @@
+"""
+Код взят отсюда, только я не генерирую так много данных, я взяла изначально побольше картинок.
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+"""
+
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import backend as K
 
-# Подготовим изображения
-
-# dimensions of our images.
+# требуемый размер изображений
 img_width, img_height = 150, 150
+# папка с данными для обучения
 train_data_dir        = 'data/train2/'
+# папка с данными для тестирования
 validation_data_dir   = 'data/test/'
-nb_train_samples      = 2000
-nb_validation_samples = 800
+# кол-во данных
+nb_train_samples      = 4597+7643
+nb_validation_samples = 25000
+
 epochs                = 5
 batch_size            = 16
 
@@ -70,15 +78,17 @@ validation_generator = test_datagen.flow_from_directory(
 
 model.fit_generator(
         train_generator,
-        steps_per_epoch=25000 // batch_size,
+        steps_per_epoch=nb_train_samples // batch_size,
         epochs=epochs,
         validation_data=validation_generator,
-        validation_steps=25000 // batch_size)
+        validation_steps=nb_validation_samples // batch_size)
 
 #Сохраним модель
 #model.save("CatsVsDogs_original.h5")
 
 """
+!!!! я изменила переменные, хранящие кол-во данных, может быть другой результат!
+
                             РЕЗУЛЬТАТ (epochs = 5, почти 3 часа)
                             
          ======================================================================
